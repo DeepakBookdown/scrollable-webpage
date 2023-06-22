@@ -2,7 +2,7 @@
 title: "Services"
 ---
 
-This is a page about the services, which I offer.
+This ise services, which I offer.
 
 It carries a lot more detail than what I put on the homepage - I swear!
 
